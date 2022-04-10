@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+    <head>
+        <h1>The Map of NBA Teams</h1>
+    </head>
+    <body>
+       <img src="map1.png" alt="123">
+       <img src="celtics.png" height="80" width="72">
+       <img src="hawks.png" height="80" width="80">
+       <img src="nets.png" height="80" width="70">
+       <img src="76ers.png" height="80" width="80">
+       <img src="bucks.png" height="80" width="80">
+       <img src="bulls.png" height="80" width="80">
+       <img src="cavaliers.png" height="80" width="70">
+       <img src="clippers.png" height="80" width="70">
+       <img src="grizzlies.png" height="80" width="70">
+       <img src="knicks.gif" height="80" width="90">
+       <img src="heats.gif" height="80" width="80">
+       <img src="hornets.png" height="80" width="80">
+       <img src="jazz.png" height="60" width="85">
+       <img src="king.png" height="80" width="80">
+       <img src="lakers.png" height="80" width="105">
+       <img src="magic.png" height="80" width="85">
+       <img src="mavericks.png" height="80" width="80">
+       <img src="nugget.png" height="80" width="80">
+       <img src="pacers.png" height="80" width="80">
+       <img src="pelicans.png" height="80" width="80">
+       <img src="pistons.png" height="80" width="80">
+       <img src="raptors.png" height="80" width="80">
+       <img src="rockets.png" height="80" width="90">
+       <img src="spurs.png" height="80" width="80">
+       <img src="suns.png" height="80" width="80">
+       <img src="thunders.png" height="80" width="80">
+       <img src="timberwolves.png" height="80" width="80">
+       <img src="trail_blazers.png" height="80" width="80">
+       <img src="warriors.png" height="80" width="75">
+       <img src="wizards.png" height="80" width="80">
+    </body>
+</html>
